@@ -7,7 +7,7 @@
     {
         "id": "campsite",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "キャンプ場",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://www.silhouette-ac.com/sozai/m/123/50/123505m.jpg",
             "scale": 0.6,
             "color": {
                 "rgba": [
