@@ -7,7 +7,7 @@
     {
         "id": "campsite1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "キャンプ場",
+        "name": "neko",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -65,17 +65,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "zero1cafe"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.65632777778,
-                    35.481038888889,
-                    1800,
-                    138.65632777778,
-                    35.481038888889,
+                    139.447524,
+                    35.542832,
+                    3999,
+                    139.447524,
+                    35.542832,
                     0
                 ]
             },
@@ -154,17 +154,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "sunscafe"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
-                    1800,
-                    138.73666666667,
-                    35.503333333333,
+                    139.446896,
+                    35.547084,
+                    3999,
+                    139.446896,
+                    35.547084,
                     0
                 ]
             },
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "latte graphic"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    1800,
-                    138.6074636,
-                    35.4197767,
+                    139.446223,
+                    35.544325,
+                    3999,
+                    139.446223,
+                    35.544325,
                     0
                 ]
             },
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "the cafe"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
-                    1800,
-                    138.7607812,
-                    35.5073161,
+                    139.446149,
+                    35.543526,
+                    3999,
+                    139.446149,
+                    35.543526,
                     0
                 ]
             },
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "starbacks"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
-                    1800,
-                    138.7579065,
-                    35.5036024,
+                    139.462065,
+                    35.529865,
+                    3999,
+                    139.462065,
+                    35.529865,
                     0
                 ]
             },
