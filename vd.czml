@@ -1,0 +1,453 @@
+[
+    {
+        "id": "document",
+        "name": "neko",
+        "version": "1.0"
+    },
+    {
+        "id": "campsite1",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "neko",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shiori6.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.447524,
+                35.542832,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "zero1cafe"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.447524,
+                    35.542832,
+                    3999,
+                    139.447524,
+                    35.542832,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "campsite2",
+        "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ネコ",
+        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shiori6.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.446896,
+                35.547084,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "sunscafe"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.446896,
+                    35.547084,
+                    3999,
+                    139.446896,
+                    35.547084,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "campsite3",
+        "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ネコ",
+        "description": "<p class=\"date\">2014.11.9 08:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shiori6.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.446223,
+                35.544325,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "latte graphic"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.446223,
+                    35.544325,
+                    3999,
+                    139.446223,
+                    35.544325,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "campsite4",
+        "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ネコ",
+        "description": "<p class=\"date\">2014.11.22 19:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shiori6.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.446149 ,
+                35.543526,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "the cafe"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.446149,
+                    35.543526,
+                    3999,
+                    139.446149,
+                    35.543526,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "campsite5",
+        "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ネコ",
+        "description": "<p class=\"date\">2014.12.22 21:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shiori6.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.462065 ,
+                35.529865,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "starbacks"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.462065,
+                    35.529865,
+                    3999,
+                    139.462065,
+                    35.529865,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    }
+    
+]
